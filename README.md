@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @field21
-- 👀 I’m interested in cybersecurity 
 - 🌱 I’m currently learning the basics as we all have to start somewhere
 - 💞️ I’m looking to collaborate 
   
